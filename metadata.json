@@ -1,0 +1,6 @@
+{
+  "name": "Suraksha Money - AI Finance & Digital Payment Safety",
+  "description": "AI-powered personal finance management and digital payment safety assistant with elder rupee shield, UPI scam interception, and multilingual accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
